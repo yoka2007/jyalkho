@@ -15,7 +15,7 @@
 **About Me**
 
 
-- Currently studying at **Kuben Videregående Skole**.
+- Currently working at **EBY oslo kommune**.
 - Currently learning **Web Development**, **Hyper-V Management**, **Wi-Fi Installation and Troubleshooting**, **Networking (e.g., Pinging Networks)**, **MySQL Database Management**.
 - I enjoy 🎮, 🏋, 🤼‍♂️, 💻
 
