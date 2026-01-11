@@ -122,6 +122,5 @@
 
 <br>
 
-Credit: [Jonas Yalkhoroev](https://github.com/jyalkho)
 
 Last Edited on: 05/02/2025
